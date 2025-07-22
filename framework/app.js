@@ -15,7 +15,6 @@ class App {
 
   // get method
   get(path, handeler) {
-    const GETREQUESTINFO = {};
     this.routes.push({ method: "GET", path, handeler: handeler });
   }
 
