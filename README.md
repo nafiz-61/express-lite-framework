@@ -23,9 +23,4 @@ A lightweight Node.js web framework that mimics core features of Express.js incl
 
 ---
 
-## 🛠️ Installation
 
-```bash
-git clone https://github.com/your-username/miniExpressJS.git
-cd miniExpressJS
-node server.js
